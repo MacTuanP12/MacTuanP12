@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Mac Duy Tuan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <p>A passionate Full Stack Developer from Vietnam 🇻🇳</p>
+  <p>I am dedicated to learning new technologies and developing robust software solutions.</p>
 </div>
 
 ### 👨‍💻 About Me
-
+- 🚀I am currently studying at **FPT University**.
+- 🌱 I’m currently learning and developing my skills in **Development**.
 - 🔭 I’m currently working on **Langleague**
 - 📚 I’m currently learning **Java &  Spring Boot**
 - ⚡ Fun fact: **I can debug Java in my sleep 😴**
